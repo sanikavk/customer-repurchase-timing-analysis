@@ -1,6 +1,6 @@
 # Customer Repurchase Timing Analysis
 
-Analyzed 100K+ e-commerce orders (Google Cloud public dataset) to identify what actually drives repeat purchases - tested traffic source, product type, and purchase timing as candidate drivers.
+Analyzed 100K+ e-commerce orders (Google Cloud public dataset) to identify what actually drives repeat purchases, tested traffic source, product type, and purchase timing as candidate drivers.
 
 ## Business Question
 Which customer segments and traffic sources drive repeat purchases, and where do we lose customers after their first order?
